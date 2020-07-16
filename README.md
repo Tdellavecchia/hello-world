@@ -1,0 +1,13 @@
+# hello-world My repo will help organize inputs from many projects that Symbotix will contibute to. It will be my hub to branch from and also main location for content. 
+
+"what is the simple/straight forward messaging for us if our two teams were sitting in front of payer, provider, life science CIO or VP. I think we are going to start with 'payers but will consider options/targets when we do our deeper exploration together"  
+ 
+ INITIAL ANSWER (CIO/CTO/Chief Digital Officer messaging):
+Data integration and interoperability is at the core of most obstacles related to advancing healthcare initiatives: new operating models, new prod/services launch, new markets, partnerships/ecosystems, new care delivery models, understanding and adjusting (in real time) utilization trends in context with value-based arrangements, real-world evidence/accelerating clinical trials, operational cost containment, agile development initiatives, optimizing cloud compute and network for elastic services and hybrid operational support....on and on. 
+ 
+Most healthcare orgs with sophisticated IT groups understand WHAT needs to be done - but are slowed/hampered by legacy/tech debt and or vendor-lockin - causing much of the IT operating budget to be stuck in fixed/sunk costs just maintaining the legacy infra. 
+ 
+The LinuxForHealth open-source horizontal platform for enterprise compute is rich with an open, simplified, yet very powerful and extensible middleware stack. Fueled by a pre-configured components (using tools from the RHEL & Red Hat middleware software along with Code from the labs @IBM Watson Health referred as LinuxForHealth serves as a kernel for leveraging and building off an interoperable API-connector hub that handles ingestion and intelligent routing of all HC standard protocols as well as tech-industry standards (see more at the GIT docs: https://linuxforhealth.github.io/docs/devcelop/extend.html  for additional info).    
+ 
+All this as part of your enablement of a digital transformation journey, that facilitates business adoption (within your enterprise and or supply chain) and assimilation/extension of solutions emanating from the IT function. It sets the entire organization on waves of predictable frequencies of digital advancements and creation of enterprise capabilities.
+First step (in the series of ascending steps accretive to a future vision) is IT Modernization. Where Symbotix software and services in conjunction with your services teams can reduce your costs, improve your agility, and set the tone for a comprehensive digitization of your enterprise for competitive advantage. AND because it is all OPEN - future proofs your IT operating model and tech stack going forward - no more vendor lock in.
